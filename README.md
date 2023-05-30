@@ -7,7 +7,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz” al posto 
 
 # FIZZBUZZ
 
-- salvo in variabile un target dal DOM dove poi inserirò come figli i contenitori che avranno a loro volta come figli le stringe desiderate
+- salvo in variabile un target dal DOM dove poi inserirò come figli le stringe desiderate
 - **FINO A CHE** ho 100 numeri stampati:
     - stampo un numero
     - aumento di uno
