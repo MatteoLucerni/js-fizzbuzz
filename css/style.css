@@ -1,11 +1,10 @@
 body{
     background-color: navy;
+    color: white;
 }
-
 
 h1{
     font-size: 6rem;
-    color: white;
 }
 
 p{
@@ -17,5 +16,26 @@ p{
     justify-content: center;
     align-items: center;
     margin: 0;
+}
+
+/* utils */
+
+.bg-marius, .bg-marcoL, .bg-marcoB{
+    background-size: contain;
+}
+
+.bg-marius{
+    background-image: url(https://ca.slack-edge.com/T91QPE3BP-U04TN5EV68Y-42b2e267dd96-512);
+    
+}
+
+.bg-marcoL{
+    background-image: url(https://ca.slack-edge.com/T91QPE3BP-U01Q36Q46T1-5e41478bf5ee-512);
+    
+}
+
+.bg-marcoB{
+    background-image: url(https://ca.slack-edge.com/T91QPE3BP-U041ANHT2GP-ba2307782a48-512);
+    
 }
 
